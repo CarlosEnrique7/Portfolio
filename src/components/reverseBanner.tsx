@@ -21,8 +21,9 @@ const ReverseBanner: React.FC = () => {
               My name is <span style={{ color: "#F00874" }}>Carlos Chavez</span>
             </Subheading>
             <NormalText textAlign="left">
-              I am a software developer with a passion for web development and learning new technologies. Here you can
-              view some of my personal projects or click "contact me" to view my resume or reach out.
+              I am a software developer with a passion for web development. I enjoy building personal projects, learning
+              and using new technologies, and tackling new areas of development whenever possible. Feel free to contact
+              me below!
             </NormalText>
             <a style={{ textDecoration: "none" }} href={resume} target="_blank">
               <Button color="#F00874">
