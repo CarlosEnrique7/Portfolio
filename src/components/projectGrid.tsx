@@ -87,7 +87,7 @@ const ProjectGrid: React.FC = () => {
           </ProjectText>
           <Button color="#F00874" marginTop="1rem">
             <a
-              href="https://github.com/UPE-FIU/Night"
+              href="https://shellhacks.net/"
               style={{
                 textDecoration: "none",
                 display: "flex",
@@ -95,7 +95,7 @@ const ProjectGrid: React.FC = () => {
               }}
               target="_blank"
             >
-              <ProjectButtonText>GitHub Repo</ProjectButtonText>
+              <ProjectButtonText>Live Site</ProjectButtonText>
               <img src={Arrow} style={{ display: "inline" }} />
             </a>
           </Button>
