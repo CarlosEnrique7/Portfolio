@@ -1,6 +1,6 @@
 import React from "react";
 import Line from "../assets/Line 1.svg";
-import { ContactWrapper, ContactRow, BorderButton, IconGroup, ContactTitle, Icon } from "../styledComponents";
+import { ContactWrapper, BorderButton, IconGroup, ContactTitle, Icon } from "../styledComponents";
 import Grid from "@mui/material/Grid";
 import Box from "@mui/material/Box";
 import resumeFile from "/Chavez_Carlos_2022.pdf";
