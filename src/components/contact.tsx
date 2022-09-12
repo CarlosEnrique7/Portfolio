@@ -47,10 +47,10 @@ const contact: React.FC = () => {
           </Grid>
           <Grid item xs={12} lg={4} style={gridItemStyles}>
             <IconGroup>
-              <a href="https://www.linkedin.com/in/carlos-chavez-4714b3201/" target="_blank">
+              <a href="https://www.linkedin.com/in/carlosenrique7/" target="_blank">
                 <Icon className="fa-brands fa-linkedin"></Icon>
               </a>
-              <a href="https://github.com/CarlosEnrique7" target="_blank">
+              <a href="https://github.com/carlosenrique7" target="_blank">
                 <Icon className="fa-brands fa-github"></Icon>
               </a>
               <a href="mailto:cenric09@gmail.com">
